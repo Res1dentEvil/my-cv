@@ -26,6 +26,12 @@ body {
     margin: 0 auto;
 }
 
+.header-container {
+    overflow-x: hidden;
+    height: 60px;
+
+}
+
 a {
     text-decoration: none;
     color: #A4A5A6;
@@ -182,9 +188,11 @@ a:hover {
 }
 
 #menu {
-    position: absolute;
+    position: fixed;
     width: 300px;
-    margin: -100px 0 0 380px;
+    top: -16px;
+    right: -600px;
+    /* margin: -100px 0 0 380px; */
     padding: 40px;
     padding-top: 125px;
 
@@ -420,6 +428,7 @@ h5 {
 
     #menuToggle {
         display: block;
+        left: 85%;
     }
 
 

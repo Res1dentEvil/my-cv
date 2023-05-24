@@ -13,7 +13,7 @@ My name is Ivan and I am a frontend developer, passionate about digital products
 I’m currently looking to join a new team of creative designers and developers. If you think we might be a good fit for one another, give me a call or send me an email
 
 ## Skills
-HTML, CSS, JavaScript, React, TypeScript, SASS, GIT basics
+HTML, CSS, JavaScript, React, TypeScript, SASS, GIT basics, Redux
 
 ## Portfolio
 https://github.com/Res1dentEvil/app-invoices
@@ -24,4 +24,4 @@ https://rolling-scopes-school.github.io/res1dentevil-JSFE2022Q1/shelter
 - [The Rolling Scopes School](https://rs.school)
 
 ## English level
-*Pre-intermediate*
+*A2: Pre-intermediate*
