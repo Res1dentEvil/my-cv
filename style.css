@@ -489,6 +489,22 @@ h5 {
     }
 }
 
+@media screen and (max-width: 550px) {
+    .portfolio {
+        gap: 10px;
+    }
+    .portfolio-img {
+        width: 85px;
+        height: 85px;
+    }
+    h5 {
+        /* font-size: 16px;
+        font-weight: 400; */
+        height: 15px;
+    }
+}
+
+
 @media screen and (max-width: 415px) {
     .avatar {
         left: 130%;
