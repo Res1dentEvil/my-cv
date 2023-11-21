@@ -27,7 +27,7 @@ body {
 }
 
 .header-container {
-    overflow-x: hidden;
+    overflow: hidden;
     height: 60px;
 
 }
